@@ -1,0 +1,32 @@
+@CHARSET "ISO-8859-1";
+
+body {
+	font-family: arial;
+	font-size: 9pt;
+	
+}
+
+h2 {
+	color: navy;
+	font-family: calibri;
+	font-size: 16pt;
+}
+h3 {
+	color: navy;
+	font-family: calibri;
+	font-size: 14pt;
+}
+
+#pie
+{
+	font-family: Arial;
+	font-size: 7pt;
+	text-align: center;
+}
+#texto
+{
+	font-family: Arial;
+	color: navy;
+	font-size: 10pt;
+	text-align: center;
+}
